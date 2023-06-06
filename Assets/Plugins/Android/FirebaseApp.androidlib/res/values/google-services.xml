@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://elimai-football-fever-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">564851070073</string>
+  <string name="google_storage_bucket" translatable="false">elimai-football-fever.appspot.com</string>
+  <string name="project_id" translatable="false">elimai-football-fever</string>
+  <string name="google_api_key" translatable="false">AIzaSyCp5SXJuAdsagbCbkDNNwJ8L9OC1yMu3Ws</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCp5SXJuAdsagbCbkDNNwJ8L9OC1yMu3Ws</string>
+  <string name="google_app_id" translatable="false">1:564851070073:android:5dc1512c6044f928e830a8</string>
+  <string name="default_web_client_id" translatable="false">564851070073-enqn7nvb1117c3cm03fjkk35h14k4s6m.apps.googleusercontent.com</string>
+</resources>

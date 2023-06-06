@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564851070073",
+    "firebase_url": "https://elimai-football-fever-default-rtdb.firebaseio.com",
+    "project_id": "elimai-football-fever",
+    "storage_bucket": "elimai-football-fever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564851070073:android:5dc1512c6044f928e830a8",
+        "android_client_info": {
+          "package_name": "com.AbaiITValley.ElimaiFootballFever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564851070073-enqn7nvb1117c3cm03fjkk35h14k4s6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp5SXJuAdsagbCbkDNNwJ8L9OC1yMu3Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564851070073-enqn7nvb1117c3cm03fjkk35h14k4s6m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564851070073-5lmt4192om4ufgshqrid4qjqqfv0s127.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Abai-IT-Valley.Elimai---Football-Fever"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
